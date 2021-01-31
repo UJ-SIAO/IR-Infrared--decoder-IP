@@ -1,0 +1,23 @@
+# vlog -vlog01compat -work work +incdir+D:/QuartusCode/Lab3 {D:/QuartusCode/Lab3/IR.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:27:40 on May 13,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/QuartusCode/Lab3" D:/QuartusCode/Lab3/IR.v 
+# -- Compiling module IR
+# 
+# Top level modules:
+# 	IR
+# End time: 18:27:40 on May 13,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# Compile of edge_detect.v was successful.
+# Compile of edge_detect_tb.v was successful.
+# Compile of init.v was successful.
+# Compile of IR.v was successful.
+# Compile of Lab3.v was successful.
+# Compile of lab3_tb.v was successful.
+# Compile of select.v was successful.
+# Compile of Show.v was successful.
+# Compile of switch.v was successful.
+# Compile of WR_Oper.v was successful.
+# 10 compiles, 0 failed with no errors.
+vsim -gui -l msim_transcript work.lab3_tb

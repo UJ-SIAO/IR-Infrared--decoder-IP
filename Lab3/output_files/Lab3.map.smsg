@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at init.v(117): always construct contains both blocking and non-blocking assignments File: D:/QuartusCode/Lab3/init.v Line: 117

@@ -1,0 +1,7 @@
+module IR(
+	CLK_50M,
+	rst_n,
+	IRDA_RX,
+);
+
+input

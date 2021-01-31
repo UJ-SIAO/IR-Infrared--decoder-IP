@@ -1,0 +1,221 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'switch:switch1|Enable1'
+Slack : -5.533
+TNS   : -102.457
+
+Type  : Slow 1200mV 85C Model Setup 'CLK_50M'
+Slack : -4.791
+TNS   : -1009.096
+
+Type  : Slow 1200mV 85C Model Setup 'rst_n'
+Slack : -4.365
+TNS   : -36.018
+
+Type  : Slow 1200mV 85C Model Setup 'init:ini|thirty_ms'
+Slack : -1.828
+TNS   : -6.459
+
+Type  : Slow 1200mV 85C Model Hold 'CLK_50M'
+Slack : 0.168
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'switch:switch1|Enable1'
+Slack : 0.531
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'rst_n'
+Slack : 0.771
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'init:ini|thirty_ms'
+Slack : 1.039
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'switch:switch1|Enable1'
+Slack : -2.118
+TNS   : -40.037
+
+Type  : Slow 1200mV 85C Model Recovery 'init:ini|thirty_ms'
+Slack : -1.581
+TNS   : -5.410
+
+Type  : Slow 1200mV 85C Model Recovery 'CLK_50M'
+Slack : -0.744
+TNS   : -123.360
+
+Type  : Slow 1200mV 85C Model Removal 'switch:switch1|Enable1'
+Slack : -0.778
+TNS   : -3.222
+
+Type  : Slow 1200mV 85C Model Removal 'CLK_50M'
+Slack : -0.312
+TNS   : -1.647
+
+Type  : Slow 1200mV 85C Model Removal 'init:ini|thirty_ms'
+Slack : 0.350
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK_50M'
+Slack : -3.000
+TNS   : -492.585
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'rst_n'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'init:ini|thirty_ms'
+Slack : 0.450
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'switch:switch1|Enable1'
+Slack : 0.453
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'switch:switch1|Enable1'
+Slack : -5.124
+TNS   : -94.202
+
+Type  : Slow 1200mV 0C Model Setup 'CLK_50M'
+Slack : -4.280
+TNS   : -885.188
+
+Type  : Slow 1200mV 0C Model Setup 'rst_n'
+Slack : -4.035
+TNS   : -31.934
+
+Type  : Slow 1200mV 0C Model Setup 'init:ini|thirty_ms'
+Slack : -1.698
+TNS   : -5.914
+
+Type  : Slow 1200mV 0C Model Hold 'CLK_50M'
+Slack : 0.139
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'switch:switch1|Enable1'
+Slack : 0.506
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'rst_n'
+Slack : 0.665
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'init:ini|thirty_ms'
+Slack : 1.049
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'switch:switch1|Enable1'
+Slack : -2.118
+TNS   : -40.024
+
+Type  : Slow 1200mV 0C Model Recovery 'init:ini|thirty_ms'
+Slack : -1.591
+TNS   : -5.423
+
+Type  : Slow 1200mV 0C Model Recovery 'CLK_50M'
+Slack : -0.585
+TNS   : -78.578
+
+Type  : Slow 1200mV 0C Model Removal 'switch:switch1|Enable1'
+Slack : -0.659
+TNS   : -2.237
+
+Type  : Slow 1200mV 0C Model Removal 'CLK_50M'
+Slack : -0.256
+TNS   : -0.722
+
+Type  : Slow 1200mV 0C Model Removal 'init:ini|thirty_ms'
+Slack : 0.368
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK_50M'
+Slack : -3.000
+TNS   : -492.585
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'rst_n'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'switch:switch1|Enable1'
+Slack : 0.392
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'init:ini|thirty_ms'
+Slack : 0.458
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'switch:switch1|Enable1'
+Slack : -2.468
+TNS   : -37.712
+
+Type  : Fast 1200mV 0C Model Setup 'CLK_50M'
+Slack : -1.945
+TNS   : -321.455
+
+Type  : Fast 1200mV 0C Model Setup 'rst_n'
+Slack : -1.570
+TNS   : -10.351
+
+Type  : Fast 1200mV 0C Model Setup 'init:ini|thirty_ms'
+Slack : -0.642
+TNS   : -2.125
+
+Type  : Fast 1200mV 0C Model Hold 'CLK_50M'
+Slack : 0.038
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'rst_n'
+Slack : 0.229
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'switch:switch1|Enable1'
+Slack : 0.270
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'init:ini|thirty_ms'
+Slack : 0.716
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'switch:switch1|Enable1'
+Slack : -1.229
+TNS   : -9.912
+
+Type  : Fast 1200mV 0C Model Recovery 'CLK_50M'
+Slack : -0.438
+TNS   : -75.342
+
+Type  : Fast 1200mV 0C Model Recovery 'init:ini|thirty_ms'
+Slack : -0.387
+TNS   : -1.051
+
+Type  : Fast 1200mV 0C Model Removal 'CLK_50M'
+Slack : -0.407
+TNS   : -52.985
+
+Type  : Fast 1200mV 0C Model Removal 'switch:switch1|Enable1'
+Slack : -0.310
+TNS   : -2.376
+
+Type  : Fast 1200mV 0C Model Removal 'init:ini|thirty_ms'
+Slack : 0.438
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK_50M'
+Slack : -3.000
+TNS   : -407.650
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'rst_n'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'switch:switch1|Enable1'
+Slack : 0.366
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'init:ini|thirty_ms'
+Slack : 0.425
+TNS   : 0.000
+
+------------------------------------------------------------

@@ -1,0 +1,28 @@
+module Show(
+	CLK_50M,
+	rst_n,
+	SMA_CLKIN,
+	LCD_RS,
+	LCD_RW,
+	LCD_EN,
+	LCD_DATA,
+	DATA,
+	Enable	
+);
+
+
+input CLK_50M;
+input rst_n;
+input SMA_CLKIN;
+input Enable;
+input [31:0]DATA;
+output LCD_RS;
+output LCD_RW;
+output LCD_EN;
+output [7:0]LCD_DATA;
+
+
+reg LCD_RS_IN;
+reg LCD_RW_IN;
+reg LCD_EN_IN;
+reg [7:0]LCD_DATA_IN;

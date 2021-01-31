@@ -1,0 +1,167 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/QuartusCode/Lab3/simulation/modelsim
+vedge_detect
+Z1 !s110 1589365653
+!i10b 1
+!s100 o_?F_DjL;WkadhD_`b=PX0
+ISD5nJ;00IDI3CNh6CjaM=2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1588991594
+8D:/QuartusCode/Lab3/edge_detect.v
+FD:/QuartusCode/Lab3/edge_detect.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1589365653.000000
+!s107 D:/QuartusCode/Lab3/edge_detect.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/QuartusCode/Lab3|D:/QuartusCode/Lab3/edge_detect.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+D:/QuartusCode/Lab3
+Z7 tCvgOpt 0
+vinit
+R1
+!i10b 1
+!s100 kcd0F1dU<zdlOlO<md:2O1
+I34CUkC1^M;]Y>3b?OZ0mm3
+R2
+R0
+w1588162572
+8D:/QuartusCode/Lab3/init.v
+FD:/QuartusCode/Lab3/init.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/QuartusCode/Lab3/init.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/QuartusCode/Lab3|D:/QuartusCode/Lab3/init.v|
+!i113 1
+R5
+R6
+R7
+vLab3
+R1
+!i10b 1
+!s100 Y8AUIlhKhjnoU1:_Kaidz1
+I`A@nbW^6Pj3l95nfCb40]1
+R2
+R0
+w1589016385
+8D:/QuartusCode/Lab3/Lab3.v
+FD:/QuartusCode/Lab3/Lab3.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/QuartusCode/Lab3/Lab3.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/QuartusCode/Lab3|D:/QuartusCode/Lab3/Lab3.v|
+!i113 1
+R5
+R6
+R7
+n@lab3
+vselect
+R1
+!i10b 1
+!s100 kYJ8hCFTIU6_7<[d:e9I?0
+I9`1KkNgO=M0dRKjFYGAYO0
+R2
+R0
+w1589015854
+8D:/QuartusCode/Lab3/select.v
+FD:/QuartusCode/Lab3/select.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/QuartusCode/Lab3/select.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/QuartusCode/Lab3|D:/QuartusCode/Lab3/select.v|
+!i113 1
+R5
+R6
+R7
+vShow
+Z8 !s110 1589365654
+!i10b 1
+!s100 XK<oL<OY<_lJ6=8?;`h@41
+I]z6m95>RTIa]IG3SiOoM10
+R2
+R0
+w1588989859
+8D:/QuartusCode/Lab3/Show.v
+FD:/QuartusCode/Lab3/Show.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z9 !s108 1589365654.000000
+!s107 D:/QuartusCode/Lab3/Show.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/QuartusCode/Lab3|D:/QuartusCode/Lab3/Show.v|
+!i113 1
+R5
+R6
+R7
+n@show
+vswitch
+R8
+!i10b 1
+!s100 UTa_PaW1i5M^WMXX[;2eL1
+IzR1h?K4mAX=4ISQbfEjT02
+R2
+R0
+w1588157649
+8D:/QuartusCode/Lab3/switch.v
+FD:/QuartusCode/Lab3/switch.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 D:/QuartusCode/Lab3/switch.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/QuartusCode/Lab3|D:/QuartusCode/Lab3/switch.v|
+!i113 1
+R5
+R6
+R7
+vWR_Oper
+R8
+!i10b 1
+!s100 l9O:9ClS_=bXL;fP6BR:z3
+Ihb32FEQ4fGdZ>Ng8Ea`SK0
+R2
+R0
+w1588157156
+8D:/QuartusCode/Lab3/WR_Oper.v
+FD:/QuartusCode/Lab3/WR_Oper.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 D:/QuartusCode/Lab3/WR_Oper.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/QuartusCode/Lab3|D:/QuartusCode/Lab3/WR_Oper.v|
+!i113 1
+R5
+R6
+R7
+n@w@r_@oper

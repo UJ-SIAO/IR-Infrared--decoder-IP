@@ -1,0 +1,68 @@
+# vsim -gui -l msim_transcript work.lab3_tb 
+# Start time: 18:27:53 on May 13,2020
+# Loading work.lab3_tb
+# Loading work.Lab3
+# Loading work.init
+# Loading work.WR_Oper
+# Loading work.Show
+# Loading work.select
+# Loading work.IR
+# Loading work.edge_detect
+# Loading work.switch
+add wave -position insertpoint  \
+sim:/lab3_tb/reset_n \
+sim:/lab3_tb/ir \
+sim:/lab3_tb/LCD_RS \
+sim:/lab3_tb/LCD_RW \
+sim:/lab3_tb/LCD_EN \
+sim:/lab3_tb/LCD_DATA \
+sim:/lab3_tb/LCD_ON \
+sim:/lab3_tb/flag_complete1 \
+sim:/lab3_tb/LCD_BLON
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: JIE  Hostname: DESKTOP-2UK3TV4  ProcessID: 5048
+#           Attempting to use alternate WLF file "./wlft8k50wc".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft8k50wc
+run -all
+# time=  0 reset_n=1 DATA=xxxxxxxx
+# time= 30 reset_n=0 DATA=00000000
+# time= 60 reset_n=1 DATA=00000000
+# send ir = 12 
+# send ir = 34 
+# send ir = 56 
+# send ir = a9 
+# time=209030110 reset_n=1 DATA=123456a9
+# ** Note: $stop    : D:/QuartusCode/Lab3/lab3_tb.v(68)
+#    Time: 229590060 ns  Iteration: 0  Instance: /lab3_tb
+# Break in Module lab3_tb at D:/QuartusCode/Lab3/lab3_tb.v line 68
+run -all
+# ** Note: $finish    : D:/QuartusCode/Lab3/lab3_tb.v(69)
+#    Time: 229590060 ns  Iteration: 0  Instance: /lab3_tb
+# 1
+# Break in Module lab3_tb at D:/QuartusCode/Lab3/lab3_tb.v line 69
+run -all
+add wave -position insertpoint  \
+sim:/lab3_tb/u1/DATA
+restart
+run -all
+# time=  0 reset_n=1 DATA=xxxxxxxx
+# time= 30 reset_n=0 DATA=00000000
+# time= 60 reset_n=1 DATA=00000000
+# send ir = 12 
+# send ir = 34 
+# send ir = 56 
+# send ir = a9 
+# time=209030110 reset_n=1 DATA=123456a9
+# ** Note: $stop    : D:/QuartusCode/Lab3/lab3_tb.v(68)
+#    Time: 229590060 ns  Iteration: 0  Instance: /lab3_tb
+# Break in Module lab3_tb at D:/QuartusCode/Lab3/lab3_tb.v line 68
+run -all
+# ** Note: $finish    : D:/QuartusCode/Lab3/lab3_tb.v(69)
+#    Time: 229590060 ns  Iteration: 0  Instance: /lab3_tb
+# 1
+# Break in Module lab3_tb at D:/QuartusCode/Lab3/lab3_tb.v line 69
+run -all
+run -all
+# End time: 18:46:57 on May 13,2020, Elapsed time: 0:19:04
+# Errors: 0, Warnings: 2

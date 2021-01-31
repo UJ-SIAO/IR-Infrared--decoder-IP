@@ -1,0 +1,71 @@
+D:/QuartusCode/Lab3/lab3_tb.v {1 {vlog -work work -stats=none D:/QuartusCode/Lab3/lab3_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab3_tb
+
+Top level modules:
+	lab3_tb
+
+} {} {}} D:/QuartusCode/Lab3/IR.v {1 {vlog -work work -stats=none D:/QuartusCode/Lab3/IR.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module IR
+
+Top level modules:
+	IR
+
+} {} {}} D:/QuartusCode/Lab3/select.v {1 {vlog -work work -stats=none D:/QuartusCode/Lab3/select.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module select
+
+Top level modules:
+	select
+
+} {} {}} D:/QuartusCode/Lab3/init.v {1 {vlog -work work -stats=none D:/QuartusCode/Lab3/init.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module init
+
+Top level modules:
+	init
+
+} {} {}} D:/QuartusCode/Lab3/edge_detect.v {1 {vlog -work work -stats=none D:/QuartusCode/Lab3/edge_detect.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module edge_detect
+
+Top level modules:
+	edge_detect
+
+} {} {}} D:/QuartusCode/Lab3/Show.v {1 {vlog -work work -stats=none D:/QuartusCode/Lab3/Show.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Show
+
+Top level modules:
+	Show
+
+} {} {}} D:/QuartusCode/Lab3/Lab3.v {1 {vlog -work work -stats=none D:/QuartusCode/Lab3/Lab3.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Lab3
+
+Top level modules:
+	Lab3
+
+} {} {}} D:/QuartusCode/Lab3/WR_Oper.v {1 {vlog -work work -stats=none D:/QuartusCode/Lab3/WR_Oper.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module WR_Oper
+
+Top level modules:
+	WR_Oper
+
+} {} {}} D:/QuartusCode/Lab3/switch.v {1 {vlog -work work -stats=none D:/QuartusCode/Lab3/switch.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module switch
+
+Top level modules:
+	switch
+
+} {} {}} D:/QuartusCode/Lab3/edge_detect_tb.v {1 {vlog -work work -stats=none D:/QuartusCode/Lab3/edge_detect_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module edge_detect_tb
+
+Top level modules:
+	edge_detect_tb
+
+} {} {}}
